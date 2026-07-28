@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Glam | Estudio de Maquillaje Profesional",
+  "description": "Estudio de maquillaje profesional de alta gama especializado en bodas, novias y eventos sociales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
